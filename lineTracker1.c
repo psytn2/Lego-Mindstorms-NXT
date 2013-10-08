@@ -1,5 +1,8 @@
 #pragma config(Sensor, S1,	lightSensor,	sensorLightActive)
 
+//* Most of the code was given by the professor Dr. Christian Wagner in the lab session of G53ARS
+//* at the University of Nottingham 
+ 
 task main(){
 
 	while(1==1){ // infinite loop
